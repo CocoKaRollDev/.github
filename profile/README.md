@@ -3,7 +3,7 @@
 > **Coco 甜，Ka 糯，Roll 一卷，烦恼全不见～**  
 > 来自 **中国 · 北京** 的女孩子，在代码世界里认真撒糖 🍥
 
-🔗 **个人主页**：https://github.com/CocoKaRollDev  
+🔗 **个人主页**：https://github.com/CocoKaRollTeam
 🏢 **团队主页**：https://github.com/CocoKaRoll
 
 > 💡 大部分正式项目都发布在团队组织下，这里是我个人的小花园 🌱
